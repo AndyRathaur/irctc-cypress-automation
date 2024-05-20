@@ -1,24 +1,31 @@
 {
-  "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/05/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAIN_NO": "12187",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "22/05/2024",
+  "SOURCE_STATION": "JBP",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
+  "DESTINATION_STATION": "NK",
   "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Rajaram Shah",
+      "AGE": 48,
       "GENDER": "Male",
-      "SEAT": "No Preference",
+      "SEAT": "Lower",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "Sunita Shah",
+      "AGE": 37,
+      "GENDER": "Female",
+      "SEAT": "Lower",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Amar Jyoti Singh",
+      "AGE": 17,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
